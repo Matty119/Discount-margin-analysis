@@ -102,4 +102,4 @@ discount-margin-analysis/
 
 ## Author
 **Kamil Khan Pathan**  
-[LinkedIn](www.linkedin.com/in/kamil-khan-pathan-4a9a3b251) | kamilkhan1906@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kamil-khan-pathan-4a9a3b251) | kamilkhan1906@gmail.com
