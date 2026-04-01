@@ -98,7 +98,7 @@ discount-margin-analysis/
 - **PostgreSQL** — data storage and querying
 - **pgAdmin 4** — query execution and data exploration
 - **Excel** — pivot analysis and data validation
-- **Power BI** — interactive dashboard (in progress)
+- **Power BI** — interactive dashboard 
 
 ---
 
