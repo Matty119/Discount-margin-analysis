@@ -102,5 +102,4 @@ discount-margin-analysis/
 
 ## Author
 **Kamil Khan Pathan**  
-Aspiring Category Manager | Data-Driven Operations  
-[LinkedIn](https://linkedin.com) | kamilkhan1906@gmail.com
+[LinkedIn](www.linkedin.com/in/kamil-khan-pathan-4a9a3b251) | kamilkhan1906@gmail.com
