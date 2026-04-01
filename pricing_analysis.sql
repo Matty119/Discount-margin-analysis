@@ -6,7 +6,7 @@
 
 
 -- ================================================
--- STEP 1: CREATE TABLES
+-- STEP 1: CREATED TABLES
 -- ================================================
 
 CREATE TABLE transactions (
@@ -57,7 +57,7 @@ CREATE TABLE causal_data (
 
 
 -- ================================================
--- STEP 2: LOAD DATA
+-- STEP 2: LOADING DATA
 -- Update file paths to match your local directory
 -- ================================================
 
@@ -69,7 +69,7 @@ COPY causal_data FROM 'D:\Projects\Pricing Analysis\archive\causal_data.csv' DEL
 
 
 -- ================================================
--- STEP 3: VERIFY DATA LOAD
+-- STEP 3: VERIFYING DATA LOAD
 -- ================================================
 
 SELECT 'transactions' AS table_name, COUNT(*) FROM transactions
