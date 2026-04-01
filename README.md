@@ -79,13 +79,13 @@ Weeks 1–16 were excluded from weekly trend analysis due to a household enrollm
 ```
 discount-margin-analysis/
 │
-├── discount_margin_analysis.sql     # All SQL queries with comments
+├── pricing_analysis.sql     # All SQL queries with comments
 │
 ├── results/
-│   ├── query1_discount_depth.csv        # Discount band vs sales volume
-│   ├── query2_weekly_trend.csv          # Weekly sales & discount trend
-│   ├── query3_margin_leakage.csv        # Margin leakage by category
-│   └── query4_discount_dependency.csv   # Discount dependency score
+│   ├── Query1.csv        # Discount band vs sales volume
+│   ├── Query2.csv        # Weekly sales & discount trend
+│   ├── Query3.csv        # Margin leakage by category
+│   └── Query4.csv        # Discount dependency score
 │
 └── README.md
 ```
