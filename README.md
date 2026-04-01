@@ -86,6 +86,8 @@ discount-margin-analysis/
 │   ├── Query2.csv        # Weekly sales & discount trend
 │   ├── Query3.csv        # Margin leakage by category
 │   └── Query4.csv        # Discount dependency score
+├── dashboard/
+│   └── dashboard_screenshot.png     # Power BI dashboard
 │
 └── README.md
 ```
