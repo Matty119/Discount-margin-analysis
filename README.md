@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project analyzes **2.5M+ retail transactions** across 8 FMCG categories to identify discount dependency, margin leakage, and post-promotion demand cannibalization — with actionable recommendations for smarter promotional planning.
+This project analyzes **40K+ retail transactions** across 8 FMCG categories to identify discount dependency, margin leakage, and post-promotion demand cannibalization — with actionable recommendations for smarter promotional planning.
 
 The dataset used is the **Dunnhumby "The Complete Journey"** dataset — a real-world retail panel tracking 2,500+ households over 2 years across grocery, meat, produce, personal care, nutrition, and other categories.
 
